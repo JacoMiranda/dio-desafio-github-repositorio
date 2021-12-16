@@ -1,2 +1,4 @@
-# dio-desafio-github-repositorio
-Desafio de Projeto sobre Git/GitHub Curso bootcamp Java
+# Desafio do Projeto sobre Git/GitHub
+Repositório criado para o desafio de Projeto. 
+##Links úteis
+[Site do curso - BootCamp Cognizant Java Developer](https://web.dio.me)
